@@ -1,0 +1,19 @@
+{
+  "name": "library-backend",
+  "version": "1.26.0",
+  "description": "",
+  "main": "library-backend.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ehsan Gifani",
+  "license": "MIT",
+  "dependencies": {
+    "apollo-server": "^2.14.1",
+    "graphql": "^15.0.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^5.9.18",
+    "mongoose-unique-validator": "^2.0.3",
+    "uuid": "^8.1.0"
+  }
+}
